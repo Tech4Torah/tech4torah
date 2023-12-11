@@ -1,0 +1,64 @@
+Seder - Hebrew	Seder - Artscroll-Style Transliteration	Seder - Sefaradit	Name - Hebrew	Name - Artscroll-Style Transliteration	Name - Sefaradit	Perakim	Mishnayos	Mishnayos Per Perek	Dapim - Bavli (based on KosherJava)	Dapim learned in Daf Yomi cycle - based on KosherJava -- includes Yerushalmi Shekalim and Mishnayos Middos and Kinim	Name - KosherJava	Notes	Numbering	Dapim - Yerushalmi (based on KosherJava)	Dapim - Yerushalmi -- (according to https://en.wikipedia.org/wiki/List_of_Talmudic_tractates which uses Oz Vehadar)
+זרעים	Zera'im	Zera'im	ברכות	Berachos	Berakhot	9	57	5_8_6_7_5_8_5_8_5	63	63	Berachos		2a-64a	68	94
+זרעים	Zera'im	Zera'im	פאה	Pe'ah	Pe'ah	8	69	6_8_8_11_8_11_8_9	0	0				37	73
+זרעים	Zera'im	Zera'im	דמאי	Demai	Demai	7	53	4_5_6_7_11_12_8	0	0				34	77
+זרעים	Zera'im	Zera'im	כלאים	Kil'ayim	Kil'ayim	9	77	9_11_7_9_8_9_8_6_10	0	0				44	84
+זרעים	Zera'im	Zera'im	שביעית	Shevi'is	Shevi'it	10	89	8_10_10_10_9_6_7_11_9_9	0	0				31	87
+זרעים	Zera'im	Zera'im	תרומות	Terumos	Terumot	11	101	10_6_9_13_9_6_7_12_7_12_10	0	0				59	107
+זרעים	Zera'im	Zera'im	מעשרות	Ma'aseros	Ma'aserot	5	40	8_8_10_6_8	0	0				26	46
+זרעים	Zera'im	Zera'im	מעשר שני	Ma'aser Sheini	Ma'aser Sheni	5	57	7_10_13_12_15	0	0				33	59
+זרעים	Zera'im	Zera'im	חלה	Challah	Hallah	4	38	9_8_10_11	0	0				28	49
+זרעים	Zera'im	Zera'im	ערלה	Orlah	Orlah	3	35	9_17_9	0	0				20	42
+זרעים	Zera'im	Zera'im	ביכורים	Bikurim	Bikurim	4	39	11_11_12_5	0	0				13	26
+מועד	Mo'ed	Mo'ed	שבת	Shabbos	Shabbat	24	139	11_7_6_2_4_10_4_7_7_6_6_6_7_4_3_8_8_3_6_5_3_6_5_5	156	156	Shabbos		2a-157b	92	113
+מועד	Mo'ed	Mo'ed	עירובין	Eruvin	Eruvin	10	96	10_6_9_11_9_10_11_11_4_15	104	104	Eruvin		2a-105a	65	71
+מועד	Mo'ed	Mo'ed	פסחים	Pesachim	Pesahim	10	89	7_8_8_9_10_6_13_8_11_9	120	120	Pesachim		2a-121b	71	86
+מועד	Mo'ed	Mo'ed	שקלים	Shekalim	Shekalim	8	52	7_5_4_9_6_6_7_8	0	21	Shekalim	Note: learned in bavli daf yomi cycle. Numbering is in vilna. Note: in old cycles it was based on a different edition that had 9 pages less, see https://github.com/KosherJava/zmanim/blob/master/src/main/java/com/kosherjava/zmanim/hebrewcalendar/YomiCalculator.java	2a-22b	33	21
+מועד	Mo'ed	Mo'ed	יומא	Yoma	Yoma	8	61	8_7_11_6_7_8_5_9	87	87	Yoma		2a-88a	42	57
+מועד	Mo'ed	Mo'ed	סוכה	Succah	Succah	5	53	11_9_15_10_8	55	55	Sukkah		2a-56b	26	33
+מועד	Mo'ed	Mo'ed	ביצה	Beitzah	Beitzah	5	42	10_10_8_7_7	39	39	Beitzah		2a-40b	22	49
+מועד	Mo'ed	Mo'ed	ראש השנה	Rosh HaShanah	Rosh HaShanah	4	35	9_9_8_9	34	34	Rosh Hashana		2a-35a	22	27
+מועד	Mo'ed	Mo'ed	תענית	Ta'anis	Ta'anit	4	34	7_10_9_8	30	30	Taanis		2a-31a	26	31
+מועד	Mo'ed	Mo'ed	מגילה	Megillah	Megillah	4	33	11_6_6_10	31	31	Megillah		2a-32a	34	41
+מועד	Mo'ed	Mo'ed	מועד קטן	Mo'ed Katan	Mo'ed Katan	3	24	10_5_9	28	28	Moed Katan		2a-29a	19	23
+מועד	Mo'ed	Mo'ed	חגיגה	Chagigah	Hagigah	3	23	8_7_8	26	26	Chagigah		2a-27a	22	28
+נשים	Nashim	Nashim	יבמות	Yevamos	Yevamot	16	128	4_10_10_13_6_6_6_6_6_9_7_6_13_9_10_7	121	121	Yevamos		2a-122b	85	88
+נשים	Nashim	Nashim	כתובות	Kesubos	Ketubot	13	111	10_10_9_12_9_7_10_8_9_6_6_4_11	111	111	Kesubos		2a-112b	72	77
+נשים	Nashim	Nashim	נדרים	Nedarim	Nedarim	11	90	4_5_11_8_6_10_9_7_10_8_12	90	90	Nedarim		2a-91b	40	42
+נשים	Nashim	Nashim	נזיר	Nazir	Nazir	9	60	7_10_7_7_7_11_4_2_5	65	65	Nazir		2a-66b	47	53
+נשים	Nashim	Nashim	סוטה	Sotah	Sotah	9	67	9_6_8_5_5_4_8_7_15	48	48	Sotah		2a-49b	47	52
+נשים	Nashim	Nashim	גיטין	Gittin	Gittin	9	75	6_7_8_9_9_7_9_10_10	89	89	Gitin		2a-90b	54	53
+נשים	Nashim	Nashim	קידושין	Kiddushin	Kiddushin	4	47	10_10_13_14	81	81	Kiddushin		2a-82b	48	53
+נזיקין	Nezikin	Nezikin	בבא קמא	Bava Kamma	Bava Kamma	10	79	4_6_11_9_7_6_7_7_12_10	118	118	Bava Kamma		2a-119b	44	40
+נזיקין	Nezikin	Nezikin	בבא מציעא	Bava Metzia	Bava Metzia	10	101	8_11_12_12_11_8_11_9_13_6	118	118	Bava Metzia		2a-119a	37	35
+נזיקין	Nezikin	Nezikin	בבא בתרא	Bava Basra	Bava Batra	10	86	6_14_8_9_11_8_4_8_10_8	175	175	Bava Basra		2a-176b	34	39
+נזיקין	Nezikin	Nezikin	סנהדרין	Sanhedrin	Sanhedrin	11	71	6_5_8_5_5_6_11_7_6_6_6	112	112	Sanhedrin		2a-113b	57	75
+נזיקין	Nezikin	Nezikin	מכות	Makkos	Makkot	3	34	10_8_16	23	23	Makkos		2a-24b	9	11
+נזיקין	Nezikin	Nezikin	שבועות	Shevu'os	Shevu'ot	8	62	7_5_11_13_5_7_8_6	48	48	Shevuos		2a-49b	44	49
+נזיקין	Nezikin	Nezikin	עדיות	Eduyos	Eduyot	8	74	14_10_12_12_7_3_9_7	0	0					0
+נזיקין	Nezikin	Nezikin	עבודה זרה	Avoda Zara	Avoda Zara	5	50	9_7_10_12_12	75	75	Avodah Zarah		2a-76b	37	34
+נזיקין	Nezikin	Nezikin	אבות	Avos	Avot	6	108	18_16_18_22_23_11	0	0					0
+נזיקין	Nezikin	Nezikin	הוריות	Horayos	Horayot	3	20	5_7_8	13	13	Horiyos		2a-14a	19	18
+קדשים	Kodshim	Kodashim	זבחים	Zevachim	Zevahim	14	101	4_5_6_6_8_7_6_12_7_8_8_6_8_10	119	119	Zevachim		2a-120b		0
+קדשים	Kodshim	Kodashim	מנחות	Menachos	Menahot	13	93	4_5_7_5_9_7_6_7_9_9_9_5_11	109	109	Menachos		2a-110a		0
+קדשים	Kodshim	Kodashim	חולין	Chulin	Chulin	12	74	7_10_7_7_5_7_6_6_8_4_2_5	141	141	Chullin		2a-142a		0
+קדשים	Kodshim	Kodashim	בכורות	Bechoros	Bekhorot	9	73	7_9_4_10_6_12_7_10_8	60	60	Bechoros		2a-61a		0
+קדשים	Kodshim	Kodashim	ערכין	Arachin	Arachin	9	50	4_6_5_4_6_5_5_7_8	33	33	Arachin		2a-34a		0
+קדשים	Kodshim	Kodashim	תמורה	Temurah	Temurah	7	35	6_3_5_4_6_5_6	33	33	Temurah		2a-34a		0
+קדשים	Kodshim	Kodashim	כריתות	Kereisos	Keritot	6	43	7_6_10_3_8_9	27	27	Kerisos		2a-28b		0
+קדשים	Kodshim	Kodashim	מעילה	Me'ilah	Me'ilah	6	38	4_9_8_6_5_6	21	21	Meilah	Ends on 37b, but that includes Kinim/Tamid/Midos. NOTE: in orange PDF says 20, erroneous. Then they fix it by making Tamid 9, which is debatable because it starts on amud beis. https://daf-yomi.com/Data/UploadedFiles/Forums/42389.pdf	2a-22a		0
+קדשים	Kodshim	Kodashim	תמיד	Tamid	Tamid	7	34	4_5_9_3_6_3_4	8	8	Tamid	25b-33b printed after Me'ilah. Orange PDF counts it as 9. https://daf-yomi.com/Data/UploadedFiles/Forums/42389.pdf	25b-33b		0
+קדשים	Kodshim	Kodashim	מדות	Middos	Middot	5	34	9_6_8_7_4	0	4	Midos	Mishnayos. 34a-37b printed after Me'ilah			0
+קדשים	Kodshim	Kodashim	קנים	Kinim	Kinim	3	15	4_5_6	0	3	Kinnim	Mishnayos. 22b-25a printed after Me'ilah			0
+טהרות	Taharos	Toharot	כלים	Keilim	Keilim	30	254	9_8_8_4_11_4_6_11_8_8_9_8_8_8_6_8_17_9_10_7_3_10_5_17_9_9_12_10_8_4	0	0					0
+טהרות	Taharos	Toharot	אוהלות	Oholos	Oholot	18	134	8_7_7_3_7_7_6_6_16_7_9_8_6_7_10_5_5_10	0	0					0
+טהרות	Taharos	Toharot	נגעים	Nega'im	Nega'im	14	115	6_5_8_11_5_8_5_10_3_10_12_7_12_13	0	0					0
+טהרות	Taharos	Toharot	פרה	Parah	Parah	12	96	4_5_11_4_9_5_12_11_9_6_9_11	0	0					0
+טהרות	Taharos	Toharot	טהרות	Taharos	Tohorot	10	92	9_8_8_13_9_10_9_9_9_8	0	0					0
+טהרות	Taharos	Toharot	מקואות	Mikvaos	Mikva'ot	10	71	8_10_4_5_6_11_7_5_7_8	0	0					0
+טהרות	Taharos	Toharot	נדה	Niddah	Niddah	10	79	7_7_7_7_9_14_5_4_11_8	72	72	Niddah			13	11
+טהרות	Taharos	Toharot	מכשירין	Machshirin	Makhshirin	6	54	6_11_8_10_11_8	0	0					0
+טהרות	Taharos	Toharot	זבים	Zavim	Zavim	5	32	6_4_3_7_12	0	0					0
+טהרות	Taharos	Toharot	טבול יום	Tevul Yom	Tevul Yom	4	26	5_8_6_7	0	0					0
+טהרות	Taharos	Toharot	ידים	Yadayim	Yadayim	4	22	5_4_5_8	0	0					0
+טהרות	Taharos	Toharot	עוקצים	Uktzim	Uktzim	3	28	6_10_12	0	0					0
