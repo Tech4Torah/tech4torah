@@ -16,8 +16,8 @@ function numberToGematria(num: number) {
 // Example: mishnaByIndex(7, [7, 5]) === [0, 7] === פרק א משנה ז
 // Example: mishnaByIndex(8, [7, 5]) === [1, 0] === פרק ב משנה א
 // If the index is out of bounds, returns null.
-function mishnaByIndex(zeroBasedInd: number, perekLengths: number[]): [number, number] | null {
-  return zeroBasedInd < perekLengths[0] ? [0, zeroBasedInd] :
+function mishnaByIndex(zeroBasedInd: number, perekLengths: number[], _carry = 0): [number, number] | null {  
+  return zeroBasedInd < perekLengths[0] ? [_carry, zeroBasedInd] :
     perekLengths.length <= 1 ? null :
-    mishnaByIndex(zeroBasedInd - perekLengths[0], perekLengths.slice(1))
+    mishnaByIndex(zeroBasedInd - perekLengths[0], perekLengths.slice(1), _carry + 1)
 }
